@@ -1,0 +1,21 @@
+a:link {
+    color: green;
+    font-size: 16px; /* Normal font size */
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+a:active {
+    color: blue; /* Change text color to blue when clicked */
+    font-size: 40px; /* Increase font size to 40 pixels when clicked */
+}
+
+a:visited {
+    color: purple; /* Change text color to purple when visited */
+    background-color: black; /* Change background color to black when visited */
+    font-size: 20px; /* Change font size to 20 pixels when visited */
+}
+
+
